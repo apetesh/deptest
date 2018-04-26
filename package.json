@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/apetesh/deptest#readme",
   "dependencies": {
+    "koa": "^2.5.0",
     "sinon": "^4.5.0"
   }
 }
